@@ -1,0 +1,15 @@
+D:\Magister\Проектирование в защищеном\Lab1\SecDev_L2\Singleton_Encrypter\bin\Debug\net8.0\Singleton_Encrypter.exe
+D:\Magister\Проектирование в защищеном\Lab1\SecDev_L2\Singleton_Encrypter\bin\Debug\net8.0\Singleton_Encrypter.deps.json
+D:\Magister\Проектирование в защищеном\Lab1\SecDev_L2\Singleton_Encrypter\bin\Debug\net8.0\Singleton_Encrypter.runtimeconfig.json
+D:\Magister\Проектирование в защищеном\Lab1\SecDev_L2\Singleton_Encrypter\bin\Debug\net8.0\Singleton_Encrypter.dll
+D:\Magister\Проектирование в защищеном\Lab1\SecDev_L2\Singleton_Encrypter\bin\Debug\net8.0\Singleton_Encrypter.pdb
+D:\Magister\Проектирование в защищеном\Lab1\SecDev_L2\Singleton_Encrypter\obj\Debug\net8.0\Singleton_Encrypter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Magister\Проектирование в защищеном\Lab1\SecDev_L2\Singleton_Encrypter\obj\Debug\net8.0\Singleton_Encrypter.AssemblyInfoInputs.cache
+D:\Magister\Проектирование в защищеном\Lab1\SecDev_L2\Singleton_Encrypter\obj\Debug\net8.0\Singleton_Encrypter.AssemblyInfo.cs
+D:\Magister\Проектирование в защищеном\Lab1\SecDev_L2\Singleton_Encrypter\obj\Debug\net8.0\Singleton_Encrypter.csproj.CoreCompileInputs.cache
+D:\Magister\Проектирование в защищеном\Lab1\SecDev_L2\Singleton_Encrypter\obj\Debug\net8.0\Singleton_Encrypter.sourcelink.json
+D:\Magister\Проектирование в защищеном\Lab1\SecDev_L2\Singleton_Encrypter\obj\Debug\net8.0\Singleton_Encrypter.dll
+D:\Magister\Проектирование в защищеном\Lab1\SecDev_L2\Singleton_Encrypter\obj\Debug\net8.0\refint\Singleton_Encrypter.dll
+D:\Magister\Проектирование в защищеном\Lab1\SecDev_L2\Singleton_Encrypter\obj\Debug\net8.0\Singleton_Encrypter.pdb
+D:\Magister\Проектирование в защищеном\Lab1\SecDev_L2\Singleton_Encrypter\obj\Debug\net8.0\Singleton_Encrypter.genruntimeconfig.cache
+D:\Magister\Проектирование в защищеном\Lab1\SecDev_L2\Singleton_Encrypter\obj\Debug\net8.0\ref\Singleton_Encrypter.dll

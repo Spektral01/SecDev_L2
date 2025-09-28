@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Singleton_Encrypter/1.0.0": {
+        "runtime": {
+          "Singleton_Encrypter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Singleton_Encrypter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
